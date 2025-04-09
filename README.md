@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+### Hi I'm [Zied Ben Hadj Amor](https://bold.pro/my/zied-benhadjamor)
+
 
 <!--
 **bhazied/bhazied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
